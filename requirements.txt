@@ -1,7 +1,7 @@
 beautifulsoup4==4.11.1
 
 # Need 3.14 wheels (your old pin 4.6.2 will try to build from source)
-lxml==6.0.2
+lxml==6.1.0
 
 # Need 3.14 wheels (your old pin 1.24.4 will try to build from source)
 numpy==2.3.3
